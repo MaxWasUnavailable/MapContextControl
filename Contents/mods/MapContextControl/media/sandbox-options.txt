@@ -1,0 +1,73 @@
+VERSION = 1,
+
+option MapContextControl.ShowCellGrid
+{
+    type = enum,
+    default = 1,
+    numValues = 6,
+
+    valueTranslation = MapContextControl_Enums,
+
+    page = MapContextControl,
+    translation = MapContextControl_ShowCellGrid,
+}
+
+option MapContextControl.ShowTileGrid
+{
+    type = enum,
+    default = 1,
+    numValues = 6,
+
+    valueTranslation = MapContextControl_Enums,
+
+    page = MapContextControl,
+    translation = MapContextControl_ShowTileGrid,
+}
+
+option MapContextControl.HideUnvisitedAreas
+{
+    type = enum,
+    default = 0,
+    numValues = 6,
+
+    valueTranslation = MapContextControl_Enums,
+
+    page = MapContextControl,
+    translation = MapContextControl_HideUnvisitedAreas,
+}
+
+option MapContextControl.Isometric
+{
+    type = enum,
+    default = 1,
+    numValues = 6,
+
+    valueTranslation = MapContextControl_Enums,
+
+    page = MapContextControl,
+    translation = MapContextControl_Isometric,
+}
+
+option MapContextControl.ReapplyStyle
+{
+    type = enum,
+    default = 0,
+    numValues = 6,
+
+    valueTranslation = MapContextControl_Enums,
+
+    page = MapContextControl,
+    translation = MapContextControl_ReapplyStyle,
+}
+
+option MapContextControl.TeleportHere
+{
+    type = enum,
+    default = 1,
+    numValues = 6,
+
+    valueTranslation = MapContextControl_Enums,
+
+    page = MapContextControl,
+    translation = MapContextControl_TeleportHere,
+}

@@ -1,0 +1,8 @@
+UI_EN = {
+    UI_MapContextControl_ShowCellGrid = "Show Cell Grid",
+    UI_MapContextControl_ShowTileGrid = "Show Tile Grid",
+    UI_MapContextControl_HideUnvisitedAreas = "Hide Unvisited Areas",
+    UI_MapContextControl_Isometric = "Isometric",
+    UI_MapContextControl_ReapplyStyle = "Reapply Style",
+    UI_MapContextControl_TeleportHere = "Teleport Here"
+}
