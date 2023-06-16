@@ -46,6 +46,7 @@ local function hasAccess(sandbox_value)
 	end
 	local required_access = sandbox_value
 	if required_access == nil then
+		print("MapContextControl: hasAccess() - Sandbox value is nil.")
 		return false
 	end
 	-- Convert the access level to a number using the enum

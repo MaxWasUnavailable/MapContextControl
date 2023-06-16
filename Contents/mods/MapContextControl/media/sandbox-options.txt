@@ -27,7 +27,7 @@ option MapContextControl.ShowTileGrid
 option MapContextControl.HideUnvisitedAreas
 {
     type = enum,
-    default = 0,
+    default = 1,
     numValues = 6,
 
     valueTranslation = MapContextControl_Enums,
@@ -51,7 +51,7 @@ option MapContextControl.Isometric
 option MapContextControl.ReapplyStyle
 {
     type = enum,
-    default = 0,
+    default = 1,
     numValues = 6,
 
     valueTranslation = MapContextControl_Enums,
