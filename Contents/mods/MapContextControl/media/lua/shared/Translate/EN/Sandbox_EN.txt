@@ -2,22 +2,22 @@ Sandbox_EN = {
 	Sandbox_MapContextControl = "Map Context Control",
 
 	Sandbox_MapContextControl_ShowCellGrid = "Show Cell Grid",
-	Sandbox_MapContextControl_ShowCellGrid_Tooltip = "Minimum access level that can use the Show Cell Grid option. (Default: observer)",
+	Sandbox_MapContextControl_ShowCellGrid_tooltip = "Minimum access level that can use the Show Cell Grid option. (Default: observer)",
 
 	Sandbox_MapContextControl_ShowTileGrid = "Show Tile Grid",
-	Sandbox_MapContextControl_ShowTileGrid_Tooltip = "Minimum access level that can use the Show Tile Grid option. (Default: observer)",
+	Sandbox_MapContextControl_ShowTileGrid_tooltip = "Minimum access level that can use the Show Tile Grid option. (Default: observer)",
 
 	Sandbox_MapContextControl_HideUnvisitedAreas = "Hide Unvisited Areas",
-	Sandbox_MapContextControl_HideUnvisitedAreas_Tooltip = "Minimum access level that can use the Hide Unvisited Areas option. (Default: observer)",
+	Sandbox_MapContextControl_HideUnvisitedAreas_tooltip = "Minimum access level that can use the Hide Unvisited Areas option. (Default: observer)",
 
 	Sandbox_MapContextControl_Isometric = "Isometric",
-	Sandbox_MapContextControl_Isometric_Tooltip = "Minimum access level that can use the Isometric option. (Default: none)",
+	Sandbox_MapContextControl_Isometric_tooltip = "Minimum access level that can use the Isometric option. (Default: none)",
 
 	Sandbox_MapContextControl_ReapplyStyle = "Reapply Style",
-	Sandbox_MapContextControl_ReapplyStyle_Tooltip = "Minimum access level that can use the Reapply Style option. (Default: observer)",
+	Sandbox_MapContextControl_ReapplyStyle_tooltip = "Minimum access level that can use the Reapply Style option. (Default: observer)",
 
 	Sandbox_MapContextControl_TeleportHere = "Teleport Here",
-	Sandbox_MapContextControl_TeleportHere_Tooltip = "Minimum access level that can use the Teleport Here option. (Default: observer)"
+	Sandbox_MapContextControl_TeleportHere_tooltip = "Minimum access level that can use the Teleport Here option. (Default: observer)"
 
 	Sandbox_MapContextControl_Enums_option1 = "none",
 	Sandbox_MapContextControl_Enums_option2 = "observer",

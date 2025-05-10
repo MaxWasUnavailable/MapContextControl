@@ -1,0 +1,19 @@
+version=1
+id=2990319957
+title=Map Context Control
+description=Welcome to Map Context Control!
+description=
+description=This simple mod adds sandbox options which allow you to set which access level (= roles on a Project Zomboid server, such as admin, moderator, gm, ...) can use which right click context menu options when right clicking on the map.
+description=
+description=The role you set in the sandbox options menu corresponds with the lowest role required to access the command. For example, giving teleport privileges to GMs will also grant them to overseers & moderators, but not to observers. But setting this to moderator only grants it to moderators (and admins, of course).
+description=
+description=In vanilla, only admins can use the "Teleport Here" right click option, for example. Some servers may want to make this available to their moderators or GMs, and this mod allows you to do just that!
+description=
+description=As another example, you could allow general users to see the entire map, while not having to give them any roles.
+description=
+description=Admins will always be able to access all context options, regardless of sandbox configuration. (Since admin is the highest rank)
+description=
+description=This mod was custom made for the Lockdown RP Server.
+description=( https://discord.com/invite/AyhJfGUGfU )
+tags=Build 41;Interface;Map;Misc;Multiplayer
+visibility=public
